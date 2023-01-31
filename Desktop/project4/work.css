@@ -1,0 +1,46 @@
+header {
+    background-color: #333;
+  }
+  
+  .container {
+    max-width: 1140px;
+    margin: 10 auto;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  nav {
+    display: flex;
+    align-items: center;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    margin-right: 20px;
+  }
+  
+  nav a {
+    color: rgb(253, 253, 253);
+    text-decoration: none;
+  }
+  
+  #mystery{
+    font-size: 40px;
+    padding-right: 200px;
+  }
+.socials{
+    max-width: 114px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 2000px;
+    
+}
